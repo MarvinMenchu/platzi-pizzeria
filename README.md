@@ -1,3 +1,3 @@
-# platzi-pizzeria\
+# platzi-pizzeria
 
 Una pizzería de platzi
